@@ -51,6 +51,4 @@ Your journal stays on your device. Lunoris never turns your secret spots into a 
 
 - Privacy Policy: [`PRIVACY.txt`](PRIVACY.txt)
 
-For development setup, architecture, and release notes, see [`DEVELOPER.md`](DEVELOPER.md).
-
-If you have questions, write to **deniz.kashin@gmail.com**.
+If you have questions, write here
