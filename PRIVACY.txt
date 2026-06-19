@@ -1,0 +1,101 @@
+PRIVACY POLICY
+
+Last Updated: June 19, 2026
+
+This Privacy Policy explains how Denis Kashin ("Developer", "we", "us", or "our") collects, uses, and protects information when you use the Lunoris mobile application ("Application").
+
+By using Lunoris, you agree to this Privacy Policy.
+
+1. Information We Collect
+
+We collect only the minimum data needed to provide and improve Lunoris.
+
+1.1 Data Processed on Device
+- Fishing journal data (sessions, catches, notes, photos, saved spots, and planned trips) is stored locally on your device.
+- Personal insights and statistics are computed on your device from your journal history.
+- App settings (language, theme, notification preferences, saved widget locations) are stored locally.
+- We do not require account creation to use Lunoris.
+
+1.2 Location Data
+- With your permission, Lunoris may access your device location to show fishing conditions, log catches, and display spots on the map.
+- Location is used for app features you request; precise coordinates may be sent to weather services (see Section 8) to fetch forecast data.
+- You can control location access through your device settings.
+
+1.3 Photos
+- Photos you attach to journal entries are stored locally on your device.
+- We do not upload your photos to our servers.
+
+1.4 Purchase-Related Data
+- Lunoris is currently free with all features unlocked.
+- If in-app purchases or subscriptions are offered in a future version, payment processing will be handled by Apple App Store or Google Play; we do not receive or store your payment card details.
+
+1.5 Diagnostic and Technical Data
+- We may process limited technical information to maintain app stability and understand product usage (for example, crash reports, device/app version, screen views, and aggregated feature events).
+- We do not send journal text, catch notes, photos, or personal comments to analytics.
+- This information is used for troubleshooting, abuse prevention, and product improvement.
+
+2. How We Use Information
+
+We use information to:
+- run core fishing intelligence and journal features,
+- fetch weather and geomagnetic data for your selected locations,
+- fix bugs and improve performance,
+- protect the Application against abuse or fraudulent activity,
+- comply with legal obligations.
+
+3. Data Sharing
+
+We do not sell your personal data.
+
+We may share limited data only:
+- with service providers that help us operate the Application (such as app distribution, crash reporting, and aggregated analytics),
+- with weather and geomagnetic data providers when you request a forecast (typically latitude and longitude),
+- when required by law or legal process,
+- to protect rights, safety, and security.
+
+4. Data Retention
+
+We keep data only for as long as necessary for the purposes described in this policy, unless a longer period is required by law.
+
+Data stored locally in the app may remain on your device until you delete the app or clear app data.
+
+Diagnostic and analytics data retained by third-party services is governed by their respective policies.
+
+5. Children's Privacy
+
+Lunoris is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe such information was provided, contact us and we will take reasonable steps to remove it.
+
+6. Security
+
+We use reasonable technical and organizational safeguards to protect information. However, no system can be guaranteed to be 100% secure.
+
+7. Your Rights
+
+Depending on your location, you may have rights regarding your personal data, including rights to access, correct, delete, or object to processing.
+
+You may also control certain processing through your device and platform settings (for example, location permissions and notification settings).
+
+8. Third-Party Services
+
+The Application may rely on platform or third-party services, including:
+- Apple App Store and Google Play (distribution and, if applicable, payments),
+- Firebase Analytics and Firebase Crashlytics (aggregated usage events and crash reporting),
+- Open-Meteo (weather forecasts; coordinates are sent when you request weather data),
+- NOAA SWPC (geomagnetic index data),
+- OpenStreetMap tile providers (map display).
+
+Their data practices are governed by their own privacy policies.
+
+9. International Transfers
+
+Your information may be processed in countries other than your own. Where required, we apply appropriate safeguards under applicable law.
+
+10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. The updated version becomes effective when posted, unless stated otherwise.
+
+11. Contact
+
+If you have questions about this Privacy Policy or data processing, contact:
+
+Email: deniz.kashin@gmail.com
