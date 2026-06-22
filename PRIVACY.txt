@@ -80,9 +80,8 @@ You may also control certain processing through your device and platform setting
 The Application may rely on platform or third-party services, including:
 - Apple App Store and Google Play (distribution and, if applicable, payments),
 - Firebase Analytics and Firebase Crashlytics (aggregated usage events and crash reporting),
-- Open-Meteo (weather forecasts; coordinates are sent when you request weather data),
+- Apple WeatherKit (weather on iOS; coordinates are sent to Apple when you refresh weather),
 - NOAA SWPC (geomagnetic index data),
-- OpenStreetMap tile providers (map display).
 
 Their data practices are governed by their own privacy policies.
 
